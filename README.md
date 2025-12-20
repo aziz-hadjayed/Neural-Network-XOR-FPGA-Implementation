@@ -568,31 +568,6 @@ Ce projet est idéal pour :
 - Démonstration pratique du pipeline logiciel → matériel
 - Base pour des réseaux plus complexes
 
-## Extensions possibles
-
-### Améliorations logicielles
-
-- [ ] Essayer d'autres fonctions d'activation (ReLU, tanh)
-- [ ] Implémenter d'autres problèmes (AND, OR, NAND)
-- [ ] Ajouter plus de couches cachées
-- [ ] Tester différents optimiseurs (SGD, RMSprop)
-- [ ] Export des poids au format JSON/CSV
-
-### Améliorations matérielles
-
-- [ ] Implémenter ReLU (plus simple que sigmoid)
-- [ ] Optimiser la LUT sigmoid (interpolation linéaire)
-- [ ] Ajouter un pipeline pour augmenter le débit
-- [ ] Support de plusieurs exemples en parallèle
-- [ ] Interface AXI-Stream pour intégration système
-- [ ] Quantification adaptative (QAT - Quantization Aware Training)
-- [ ] Déploiement sur carte FPGA réelle (DE10-Nano, Zynq)
-
-### Réseaux plus complexes
-
-- [ ] Résoudre le problème MNIST (digits 0-9)
-- [ ] Réseau convolutif (CNN) pour images
-- [ ] Accélérateur matériel générique pour DNNs
 
 ## Dépannage
 
