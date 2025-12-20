@@ -450,7 +450,7 @@ vivado -mode batch -source build.tcl
 
 #### Évolution de la Loss
 
-![Loss Curve](images/loss_curve.png)
+![Loss Curve](images/loss.png)
 
 - **Loss d'entraînement** : Descend de ~0.8 à ~0.03
 - **Loss de validation** : Suit la même tendance
@@ -459,7 +459,7 @@ vivado -mode batch -source build.tcl
 
 #### Évolution de l'Accuracy
 
-![Accuracy Curve](images/accuracy_curve.png)
+![Accuracy Curve](images/accuracy.png)
 
 - **Accuracy d'entraînement** : Atteint 100% vers l'epoch 75
 - **Accuracy de validation** : Identique (100%)
