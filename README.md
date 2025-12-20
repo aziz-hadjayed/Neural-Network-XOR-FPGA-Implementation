@@ -450,7 +450,7 @@ vivado -mode batch -source build.tcl
 
 #### Évolution de la Loss
 
-![Loss Curve](docs/images/loss_curve.png)
+![Loss Curve](images/loss_curve.png)
 
 - **Loss d'entraînement** : Descend de ~0.8 à ~0.03
 - **Loss de validation** : Suit la même tendance
@@ -459,7 +459,7 @@ vivado -mode batch -source build.tcl
 
 #### Évolution de l'Accuracy
 
-![Accuracy Curve](docs/images/accuracy_curve.png)
+![Accuracy Curve](images/accuracy_curve.png)
 
 - **Accuracy d'entraînement** : Atteint 100% vers l'epoch 75
 - **Accuracy de validation** : Identique (100%)
@@ -467,7 +467,7 @@ vivado -mode batch -source build.tcl
 
 ### Frontière de décision
 
-![Decision Boundary](docs/images/decision_boundary.png)
+![Decision Boundary](images/decision_boundary.png)
 
 La visualisation montre clairement la **séparation non linéaire** des classes :
 
