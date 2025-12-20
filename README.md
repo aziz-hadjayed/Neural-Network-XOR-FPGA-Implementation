@@ -611,7 +611,7 @@ constant FRAC_BITS : integer := 16;          -- au lieu de 8
 ## Auteur
 
 **[Votre Nom]**
-- GitHub: [@aziz-hadjayed](https://github.com/votre-username)
+- GitHub: [mohamed aziz hadjayed](https://github.com/aziz-hadjayed)
 - Email: mohamedaziz.hadjayed@enicar.ucar.tn
 
 ## Remerciements
