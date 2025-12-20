@@ -461,7 +461,7 @@ vivado -mode batch -source build.tcl
 
 ![Accuracy Curve](images/accuracy.png)
 
-- **Accuracy d'entraînement** : Atteint 100% vers l'epoch 75
+- **Accuracy d'entraînement** : Atteint 100% vers l'epoch 80
 - **Accuracy de validation** : Identique (100%)
 - Apprentissage progressif avec quelques oscillations initiales
 
