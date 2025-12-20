@@ -608,24 +608,11 @@ constant FIXED_POINT_WIDTH : integer := 32;  -- au lieu de 16
 constant FRAC_BITS : integer := 16;          -- au lieu de 8
 ```
 
-## Ressources
-
-### Tutoriels
-
-- [Neural Networks from Scratch](https://nnfs.io/)
-- [VHDL Tutorial](https://www.nandland.com/)
-- [FPGA4Fun - Neural Networks](https://www.fpga4fun.com/)
-
-### Papiers de recherche
-
-- [Implementing Neural Networks on FPGA](https://arxiv.org/abs/1906.03741)
-- [Fixed-Point Quantization for Deep Learning](https://arxiv.org/abs/1511.06488)
-
 ## Auteur
 
 **[Votre Nom]**
 - GitHub: [@votre-username](https://github.com/aziz-hadjayed)
-- Email: votre-email@example.com
+- Email: mohamedaziz.hadjayed@enicar.ucar.tn
 
 ## Remerciements
 
